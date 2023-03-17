@@ -1,0 +1,5 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Primeiro_Programa\bin\Debug\net7.0\publish\Primeiro_Programa.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Primeiro_Programa\bin\Debug\net7.0\publish\Primeiro_Programa.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Primeiro_Programa\bin\Debug\net7.0\publish\Primeiro_Programa.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Primeiro_Programa\bin\Debug\net7.0\publish\Primeiro_Programa.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Primeiro_Programa\bin\Debug\net7.0\publish\Primeiro_Programa.pdb
