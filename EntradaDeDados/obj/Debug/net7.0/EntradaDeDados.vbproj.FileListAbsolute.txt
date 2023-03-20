@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\refint\EntradaDeDados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EntradaDeDados\obj\Debug\net7.0\ref\EntradaDeDados.dll
