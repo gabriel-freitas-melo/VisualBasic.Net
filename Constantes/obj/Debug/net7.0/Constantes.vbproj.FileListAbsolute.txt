@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\bin\Debug\net7.0\Constantes.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\bin\Debug\net7.0\Constantes.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\bin\Debug\net7.0\Constantes.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\bin\Debug\net7.0\Constantes.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\bin\Debug\net7.0\Constantes.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\refint\Constantes.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\Constantes.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Constantes\obj\Debug\net7.0\ref\Constantes.dll
