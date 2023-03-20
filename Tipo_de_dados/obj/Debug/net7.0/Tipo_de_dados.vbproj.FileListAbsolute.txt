@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\bin\Debug\net7.0\Tipo_de_dados.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\bin\Debug\net7.0\Tipo_de_dados.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\bin\Debug\net7.0\Tipo_de_dados.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\bin\Debug\net7.0\Tipo_de_dados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\bin\Debug\net7.0\Tipo_de_dados.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\refint\Tipo_de_dados.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\Tipo_de_dados.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\Tipo_de_dados\obj\Debug\net7.0\ref\Tipo_de_dados.dll
