@@ -1,0 +1,24 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "EntradaDeDados\\EntradaDeDados.vbproj",
+      "projectTarget": "",
+      "name": "EntradaDeDados.vbproj"
+    },
+    {
+      "type": "coreclr",
+      "name": "EntradaDeDados.vbproj(1)",
+      "project": "EntradaDeDados\\EntradaDeDados.vbproj",
+      "projectTarget": ""
+    },
+    {
+      "type": "coreclr",
+      "name": "Program.vb",
+      "project": "OperadoresLogicos\\Program.vb",
+      "projectTarget": ""
+    }
+  ]
+}

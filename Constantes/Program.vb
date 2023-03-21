@@ -9,6 +9,9 @@ Module Program
         Const meses As UInteger = 12
         Dim salarioAnual As Double
         salarioAnual = salarioMensal * meses
-        Console.Writeline($"Salario anual = {salarioAnual:C}")
+        Console.WriteLine($"Salario anual = {salarioAnual:C}")
+        Console.WriteLine("Fim do programa")
+
+
     End Sub
 End Module

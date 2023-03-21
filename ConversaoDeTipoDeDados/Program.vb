@@ -16,5 +16,6 @@ Module Program
         Console.WriteLine(numSingle)
         word = Convert.toString(numDouble)
         Console.WriteLine(word)
+        Console.WriteLine("Fim do programa")
     End Sub
 End Module

@@ -13,6 +13,8 @@ Module Program
         Console.WriteLine("Digite enter para sair do programa")
         Console.ReadLine()
         Console.WriteLine("Até logo")
+        Console.WriteLine("Fim do programa")
+
 
     End Sub
 End Module

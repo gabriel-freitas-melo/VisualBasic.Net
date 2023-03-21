@@ -12,5 +12,8 @@ Module Program
         Console.Writeline("Salario anual: {0:C}", salarioAnual)
         'Cadeia de caracteres de formato interpolado
         Console.WriteLine("Salário Anual: {salarioAnual}")
+        Console.WriteLine("Fim do programa")
+
+
     End Sub
 End Module

@@ -34,6 +34,7 @@ Module Program
             Case Else
                 Console.WriteLine($"Olá {nome}, você digitou um valor errado de nota")
         End Select
+        Console.WriteLine("Fim do programa")
 
     End Sub
 End Module
