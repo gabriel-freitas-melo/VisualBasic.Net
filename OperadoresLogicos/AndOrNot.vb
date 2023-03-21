@@ -31,6 +31,7 @@ Module Program
             Console.WriteLine("Precisa de reforço?")
             Console.WriteLine(Not reforco)
         End If
+        Console.WriteLine("Fim do programa")
 
     End Sub
 End Module
