@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\bin\Debug\net7.0\OperadoresLogicos2.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\bin\Debug\net7.0\OperadoresLogicos2.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\bin\Debug\net7.0\OperadoresLogicos2.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\bin\Debug\net7.0\OperadoresLogicos2.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\bin\Debug\net7.0\OperadoresLogicos2.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\refint\OperadoresLogicos2.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\OperadoresLogicos2.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\OperadoresLogicos\OperadoresLogicos2\obj\Debug\net7.0\ref\OperadoresLogicos2.dll

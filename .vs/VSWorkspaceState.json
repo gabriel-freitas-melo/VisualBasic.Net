@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OperadoresLogicos",
+    "\\OperadoresLogicos\\bin\\Debug",
+    "\\OperadoresLogicos\\bin\\Release"
   ],
+  "SelectedNode": "\\EntradaDeDados",
   "PreviewInSolutionExplorer": false
 }

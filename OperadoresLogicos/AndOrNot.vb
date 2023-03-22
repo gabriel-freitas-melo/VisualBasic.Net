@@ -12,25 +12,28 @@ Module Program
         Dim reforco As Boolean = False
 
         'and
-        If media >= 6.0 And frequencia >= 0.75 Then
+        If (media >= 6 And frequencia >= 75) Then
             Console.WriteLine("Aprovado")
         Else
             Console.WriteLine("Reprovado")
         End If
         'or
-        If media >= 6.0 And frequencia >= 0.75 Then
+        If (media >= 6 And frequencia >= 75) Then
             Console.WriteLine("Aprovado")
-        ElseIf media >= 5.0 Or frequencia < 0.75 Then
+        ElseIf (media >= 5 Or frequencia >= 75) Then
             Console.WriteLine("Recuperação")
         Else
             Console.WriteLine("Reprovado")
 
         End If
         'not
-        If media <= 6.0 Then
-            Console.WriteLine("Precisa de reforço?")
-            Console.WriteLine(Not reforco)
+
+        If media < 6 Then
+            Console.WriteLine("Você precisa de reforço")
+            Dim result As Boolean = Not reforco
+            Console.WriteLine(result)
         End If
+
         Console.WriteLine("Fim do programa")
 
     End Sub
