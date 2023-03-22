@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\refint\TratamentoDeErros.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\TratamentoDeErros\obj\Debug\net7.0\ref\TratamentoDeErros.dll

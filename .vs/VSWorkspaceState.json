@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OperadoresLogicos",
+    "\\FunctionsSubrotinas\\Funções",
     "\\OperadoresLogicos\\bin\\Debug",
-    "\\OperadoresLogicos\\bin\\Release"
+    "\\OperadoresLogicos\\bin\\Release",
+    "\\OperadoresLogicos\\OperadoresLogicos3",
+    "\\TratamentoDeErros"
   ],
-  "SelectedNode": "\\EntradaDeDados",
+  "SelectedNode": "\\FunctionsSubrotinas",
   "PreviewInSolutionExplorer": false
 }
