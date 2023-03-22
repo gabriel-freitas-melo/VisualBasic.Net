@@ -1,0 +1,5 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\obj\Debug\net7.0\EstruturasDeRepeticao.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\obj\Debug\net7.0\EstruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\obj\Debug\net7.0\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\obj\Debug\net7.0\EstruturasDeRepeticao.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\obj\Debug\net7.0\EstruturasDeRepeticao.vbproj.CoreCompileInputs.cache

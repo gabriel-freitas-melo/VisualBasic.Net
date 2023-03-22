@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\bin\Debug\net7.0\EstruturaFOR.exe
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\bin\Debug\net7.0\EstruturaFOR.deps.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\bin\Debug\net7.0\EstruturaFOR.runtimeconfig.json
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\bin\Debug\net7.0\EstruturaFOR.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\bin\Debug\net7.0\EstruturaFOR.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.AssemblyInfo.vb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\refint\EstruturaFOR.dll
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.pdb
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\EstruturaFOR.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\VisualBasic.Net\EstruturasDeRepeticao\EstruturaFOR\obj\Debug\net7.0\ref\EstruturaFOR.dll
